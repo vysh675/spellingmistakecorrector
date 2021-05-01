@@ -1,2 +1,2 @@
 # spellingmistakecorrector
-This will correct the spelling mistakes of the text
+This will correct the spelling mistakes of the text.
